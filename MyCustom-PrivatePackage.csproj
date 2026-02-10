@@ -5,6 +5,15 @@
     <RootNamespace>MyCustom_PrivatePackage</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>Banana2026</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>MyCustom</Authors>
+    <Company>MyCustom</Company>
+    <Description>My custom private package for internal use.</Description>
+    <PackageTags>custom;private;internal</PackageTags>
+    <RepositoryUrl>https://github.com/camilarpinheiro/MyCustom-PrivatePackage</RepositoryUrl> 
+      
   </PropertyGroup>
 
 </Project>
